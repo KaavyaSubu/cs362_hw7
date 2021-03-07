@@ -1,0 +1,4 @@
+
+
+def isDivisibleByFour(x):
+	pass
